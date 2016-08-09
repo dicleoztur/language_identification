@@ -7,6 +7,7 @@ simple language identification system
   - IOtools.py: contains helper functions for i/o operations.
   - metaexperimentation.py: contains some constants and definitions.
 
-#Three 3rd party libraries, scikit-learn, pandas and nltk, are required.
+
+Three 3rd party libraries, scikit-learn, pandas and nltk, are required.
 
 dicle
